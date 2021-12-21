@@ -1,4 +1,4 @@
-#Mohammed Azeem S
+#Mohammed Azeem
 #1BG18EC065
 def count_batteries_by_usage(cycles):
   count_low=0
